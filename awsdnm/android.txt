@@ -1,0 +1,3 @@
+title=deneme
+author=Burak Erginkoc
+orientation=portrait
